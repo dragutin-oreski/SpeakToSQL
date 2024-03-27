@@ -28,7 +28,7 @@ To run SpeakToSQL locally, follow these steps:
 
 1. **Clone the repository**
 ```console   
-git clone [github.com/yourusername/speaktosql.git](https://github.com/dragutin-oreski/SpeakToSQL/tree/master)
+git clone https://github.com/dragutin-oreski/SpeakToSQL.git
 cd speaktosql
 ```
 
