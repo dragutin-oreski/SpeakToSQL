@@ -27,18 +27,20 @@ To run SpeakToSQL locally, follow these steps:
 ### Steps
 
 1. **Clone the repository**
-   
+```console   
 git clone [github.com/yourusername/speaktosql.git](https://github.com/dragutin-oreski/SpeakToSQL/tree/master)
-
 cd speaktosql
+```
 
 1. **Install the required packages**
-
+```console
 pip install -r requirements.txt
+```
 
 1. **Run the Streamlit application**
-
+```console
 streamlit run speak_to_sql.py
+```
 
 Now, the SpeakToSQL app should be running locally on your machine. Visit the URL provided by Streamlit in your terminal to interact with the app.
 
