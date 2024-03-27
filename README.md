@@ -11,7 +11,6 @@ SpeakToSQL is a web application designed to facilitate direct communication with
 - **Powered by OpenAI**: Utilizes OpenAI's language models for understanding and generating SQL queries.
 - **Streamlit Integration**: A sleek, user-friendly interface built with Streamlit, making it easy to use and deploy.
 
-![SpeakToSQL Screenshot](speak_to_sql.png)
 
 ![SpeakToSQL Demo](speak_to_sql.mp4)
 
@@ -28,13 +27,17 @@ To run SpeakToSQL locally, follow these steps:
 ### Steps
 
 1. **Clone the repository**
-git clone https://github.com/yourusername/speaktosql.git
+   
+git clone [github.com/yourusername/speaktosql.git](https://github.com/dragutin-oreski/SpeakToSQL/tree/master)
+
 cd speaktosql
 
-2. **Install the required packages**
+1. **Install the required packages**
+
 pip install -r requirements.txt
 
-3. **Run the Streamlit application**
+1. **Run the Streamlit application**
+
 streamlit run speak_to_sql.py
 
 Now, the SpeakToSQL app should be running locally on your machine. Visit the URL provided by Streamlit in your terminal to interact with the app.
