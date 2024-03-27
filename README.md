@@ -20,25 +20,25 @@ To run SpeakToSQL locally, follow these steps:
 
 ### Prerequisites
 
-- Python 3.6 or newer
+- Python 3.11 or newer
 - An OpenAI API key
 - Access to a SQL database
 
 ### Steps
 
 1. **Clone the repository**
-```console   
+```bash   
 git clone https://github.com/dragutin-oreski/SpeakToSQL.git
 cd speaktosql
 ```
 
 1. **Install the required packages**
-```console
+```bash
 pip install -r requirements.txt
 ```
 
 1. **Run the Streamlit application**
-```console
+```bash
 streamlit run speak_to_sql.py
 ```
 
