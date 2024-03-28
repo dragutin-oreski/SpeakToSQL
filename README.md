@@ -11,8 +11,9 @@ SpeakToSQL is a web application designed to facilitate direct communication with
 - **Powered by OpenAI**: Utilizes OpenAI's language models for understanding and generating SQL queries.
 - **Streamlit Integration**: A sleek, user-friendly interface built with Streamlit, making it easy to use and deploy.
 
+![SpeakToSQL Demo](speak_to_sql.png)
 
-![SpeakToSQL Demo](speak_to_sql.mp4)
+![SpeakToSQL Video Demonstration](speak_to_sql.mp4)
 
 ## Installation
 
