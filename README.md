@@ -4,16 +4,20 @@
 
 SpeakToSQL is a web application designed to facilitate direct communication with your database using natural language. Powered by the innovative LangChain SQL Agent and OpenAI's powerful language models, this app provides a user-friendly interface to interact with your data without writing complex SQL queries. Whether you're a database administrator, a data analyst, or just curious about interacting with databases in a new way, SpeakToSQL streamlines the process, making database queries as simple as having a conversation.
 
+## Demo
+
+Check out the deployed version of SpeakToSQL here: [https://upp-agency-speaktosql.streamlit.app/](https://upp-agency-speaktosql.streamlit.app/)
+
+For a video demonstration, watch our overview on Vimeo: [Vimeo Video Link](https://vimeo.com/928296069)
+
+![SpeakToSQL Demo](speak_to_sql.png)
+
 ## Features
 
 - **Natural Language Queries**: Use plain English to query your database.
 - **Flexible Database Support**: Connect to any SQL database by providing the database URI.
 - **Powered by OpenAI**: Utilizes OpenAI's language models for understanding and generating SQL queries.
 - **Streamlit Integration**: A sleek, user-friendly interface built with Streamlit, making it easy to use and deploy.
-
-![SpeakToSQL Demo](speak_to_sql.png)
-
-![SpeakToSQL Video Demonstration](speak_to_sql.mp4)
 
 ## Installation
 
