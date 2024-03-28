@@ -8,7 +8,7 @@ SpeakToSQL is a web application designed to facilitate direct communication with
 
 Check out the deployed version of SpeakToSQL here: [https://upp-agency-speaktosql.streamlit.app/](https://upp-agency-speaktosql.streamlit.app/)
 
-For a video demonstration, watch our overview on Vimeo: [Vimeo Video Link](https://vimeo.com/928296069)
+For a video demonstration, watch our overview on Vimeo: [Vimeo Video Link](<div style="padding:75.66% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/928296069?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="SpeakToSQL"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>)
 
 ![SpeakToSQL Demo](speak_to_sql.png)
 
